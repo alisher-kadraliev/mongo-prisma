@@ -7,6 +7,6 @@ export default function Home() {
       <div className="flex flex-col gap-4">
         <Link href="/register">Sign in</Link>
       </div>
- </main>
+    </main>
   );
 }
